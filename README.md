@@ -11,13 +11,23 @@
 ---
 
 ### 🛠️ Languages and Tools:  
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" height="25"/>
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" height="25"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white" alt="C#" height="25"/>
-  <img src="https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white" alt="MSSQL" height="25"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" height="25"/>
-</div>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
