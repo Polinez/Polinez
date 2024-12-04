@@ -1,4 +1,4 @@
-# Hello 👋, I'm Sebastian Wandzel
+# Hello 👋, I'm Sebastian
 ### A student passionate about technology, cybersecurity, and software development.
 
 ---
