@@ -35,5 +35,5 @@
 ---
 
 ### 📫 How to reach me:  
-- Email: [sebastianwandzel@yahoo.pl](mailto:sebastianwandzel@yahoo.pl)  
-- LinkedIn: [Sebastian Wandzel](https://www.linkedin.com/in/sebastianwandzel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastianwandzel/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sebastianwandzel@yahoo.pl)
