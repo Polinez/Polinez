@@ -5,7 +5,7 @@
 
 ### 🌟 About Me:  
 - 🎓 Currently studying at the University of Economics in Katowice  
-- 💻 Passionate about Python and Cybersecurity 
+- 💻 Passionate about Machin Learning and Cybersecurity 
 - 🚀 Exploring machine learning
 
 ---
