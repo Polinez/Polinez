@@ -1,12 +1,11 @@
 # Hello 👋, I'm Sebastian
-### A student passionate about technology, cybersecurity, and software development.
 
 ---
 
 ### 🌟 About Me:  
 - 🎓 Currently studying at the University of Economics in Katowice  
 - 💻 Passionate about Machin Learning and Cybersecurity 
-- 🚀 Exploring machine learning
+- 🚀 Exploring deep learning
 
 ---
 
